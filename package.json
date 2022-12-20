@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "yt-channel-info": "^3.2.1",
+    "ytdl-core": "^4.11.2"
+  },
+  "name": "starducz-triggerer",
+  "description": "one nodejs script for all.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
